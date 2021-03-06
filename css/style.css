@@ -1,0 +1,35 @@
+div {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    padding: 100px 0 100px 0;
+    background-color: #006899;
+    color: white;
+    border-color: black;
+}
+
+.btn {
+    background-color: white;
+    color: rgb(10, 10, 10);
+    border-radius: 6px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 10px;
+    width: 300px;
+}
+
+button {
+    font-family: 'Roboto Mono', monospace;
+    box-shadow: 0 5px 11px 0 rgb(22, 22, 22), 0 5px 11px 0 darkslategrey;
+}
+
+#title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+}
+
+#question {
+    font-family: 'Roboto Mono', monospace;
+    margin: 20px 200px 20px 200px;
+    padding: 10px 0 30px 0;
+    font-size: 30px;
+}
