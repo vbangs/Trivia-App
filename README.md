@@ -1,15 +1,21 @@
-## markdown preview
 
-Hello Markdown in VS Code!
+Trivia
 ====================
 
-This is a simple introduction to compiling Markdown in VS Code.
+A simple web application that uses the Open Trivia Database API to create a trivia game.
 
-Things you'll need:
-* [node](https://nodejs.org)
-* [marked](https://www.npmjs.com/package/marked)
-* [tasks.json](/docs/editor/tasks.md)
+## Technologies Used
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Google Fonts
+* Open Trivia Database API
 
-## Section Title
+## Getting Started
 
-> This block quote is here for your information.
+[Click Here](https://courses.cs.washington.edu/courses/cse391/16sp/bash.html) to see the deployed app!
+
+## Future Enhancements
+* The assignment of multiple choice answer options to random buttons
+* Sound effects played when users click correct and incorrect answers
