@@ -12,10 +12,9 @@ A simple web application that uses the Open Trivia Database API to create a triv
 * Google Fonts
 * Open Trivia Database API
 
-## Getting Started
-
 [Click Here](https://courses.cs.washington.edu/courses/cse391/16sp/bash.html) to see the deployed app!
 
 ## Future Enhancements
+* Responsive design
 * The assignment of multiple choice answer options to random buttons
 * Sound effects played when users click correct and incorrect answers
